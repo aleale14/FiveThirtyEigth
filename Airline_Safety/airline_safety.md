@@ -1,7 +1,7 @@
 ---
 title: "Airline Safety"
 author: "Alessandro Alessandrini"
-date: "2018-03-15"
+date: "2018-03-16"
 output:
       html_document:
         keep_md: true
@@ -22,9 +22,7 @@ output:
 
 #Intro
 
-FiveThirtyEight is a great website and they perform many data driven analyses. 
-They release a lot of the data they use on their GitHub account and repackage them into a nice R package.
-Leveraging upon it, I am reanalyzing some datasets - today I'll give a go at the **airline_safety** one, a simple database including the amount of births per day in the US between 1994 and 2003.
+FiveThirtyEight is a great website and they perform many data driven analyses. They release a lot of the data they use on their GitHub account and repackage them into a nice R package. Leveraging upon it, I am reanalyzing some datasets - today I'll give a go at the **airline_safety** one, a simple database including the major events for top 56 airlines worldwide between 1985 and 2014.
 
 #Setup
 
